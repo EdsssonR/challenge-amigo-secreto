@@ -1,6 +1,6 @@
 <h1>Challenge Sorteo Amigo Secreto</h1>
 
-(/assets/readme.png)
+ <img src="https://raw.githubusercontent.com/EdsssonR/challenge-amigo-secreto/refs/heads/main/assets/readme.png" alt="Portada" width="100%" />
 
 Aplicación web que permite sortear aleatoriamente los nombres ingresados a una de la lista.
 
