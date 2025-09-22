@@ -1,6 +1,6 @@
 <h1>Challenge Sorteo Amigo Secreto</h1>
 
-(./assets/readme.png)
+(/assets/readme.png)
 
 Aplicación web que permite sortear aleatoriamente los nombres ingresados a una de la lista.
 
